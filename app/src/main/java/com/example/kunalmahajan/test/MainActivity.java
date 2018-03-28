@@ -18,6 +18,11 @@ import rx.Scheduler;
 import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
+import rx.schedulers.Schedulers;
+import rx.schedulers.Schedulers;
+import rx.schedulers.Schedulers;
+import rx.schedulers.Schedulers;
+import rx.schedulers.Schedulers;
 
 public class MainActivity extends AppCompatActivity {
 
